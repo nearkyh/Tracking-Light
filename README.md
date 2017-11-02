@@ -1,5 +1,6 @@
 # Tracking Light
-Project for tracking light
+
+Project for tracking light using OpenCV
 
 
 ## Requirements
