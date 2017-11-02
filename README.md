@@ -21,6 +21,13 @@ Demo :
 
 - python3 tracking_light_demo.py --image {IMAGE_FILE_NAME}
 
+<div align='center'>
+  <img src='doc/img/demo.png' width='600px'>
+</div>
+<div align='center'>
+  <img src='doc/img/demo2.png' width='600px'>
+</div>
+
 Run :
 
 - python3 tracking_light_app.py
